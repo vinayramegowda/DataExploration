@@ -10,4 +10,4 @@ Tasks done in this project
 - Interpretations
 - Shapiro-Wilk Test for Normality
 
-Use KAG_conversion_data in R studio as the dataset and run the source file to get to whether there is an increased amount of sales with the increase in AD-Campaigns. 
+Use KAG_conversion_data in R studio as the dataset and run the source file to get to know whether there is an increased amount of sales with the increase in AD-Campaigns. 
